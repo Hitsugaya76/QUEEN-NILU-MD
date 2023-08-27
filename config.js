@@ -46,15 +46,15 @@ global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtu
 
 // PUT YOUR SESSION ID HERE 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;N3w2FIZQ#RhvWTjPVkjJtdUZlVy5ZGffmzipU1L55_5jpgcvXd1w' // PUT your session ID BY scan QR 
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '243993366258'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '𝐑𝐘𝐔𝐙𝐀𝐊𝐈'
 
 global.OPENAI_API_KEY = "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"
 
@@ -63,9 +63,9 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𝐑𝐘𝐔𝐙𝐀𝐊𝐈'
  
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '𝐑𝐘𝐔𝐙𝐀𝐊𝐈' //sticker
 
 global.LANG = 'EN' // Language (EN-  to english  ,  SI- to sinhala )
 
